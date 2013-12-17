@@ -22,9 +22,9 @@ var urls = find('Some http://google.com/ and http://segment.io.');
 
 ### find(text)
 
-Return an array of urls inside `text`.
-
-Duplicates are removed and urls that end with punctuation are cleaned up.
+  Return an array of urls inside `text`.
+  
+  Duplicates are removed and urls that end with punctuation are cleaned up.
 
 ## License
 
