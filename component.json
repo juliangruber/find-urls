@@ -1,0 +1,19 @@
+{
+  "name": "find-urls",
+  "repo": "juliangruber/find-urls",
+  "description": "Find all urls in a text",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/regexps": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
